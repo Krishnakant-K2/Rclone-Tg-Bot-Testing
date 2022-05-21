@@ -1,5 +1,5 @@
 
-name: Manually Deploy to heroku
+name: LAHKOK
 
 on: workflow_dispatch
 
